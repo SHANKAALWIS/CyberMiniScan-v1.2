@@ -1,0 +1,6 @@
+Issue Type,Line,Content
+Weak Password,1,"user=admin"
+Weak Password,2,"password=123456"
+Weak Password,2,"password=123456"
+Suspicious Extension,3,"Run this file: setup.exe"
+Dangerous URL,4,"http://weirdsite.xyz"

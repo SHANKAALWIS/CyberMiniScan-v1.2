@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0mD:\Projects\Cyber Projects\Cyber Mini Scan\CyberMiniScan v1.2\src\main\scala\CyberMiniScanApp.scala:79:67: ')' expected but string literal found.[0m
+[0m[[0m[31merror[0m] [0m[0m         |  "weakPasswords": [${result.weakPasswords.map(p => s"{"line": ${p.line}, "content": \"${p.content}\"}").mkString(",")}],[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Projects\Cyber Projects\Cyber Mini Scan\CyberMiniScan v1.2\src\main\scala\CyberMiniScanApp.scala:80:81: ')' expected but string literal found.[0m
+[0m[[0m[31merror[0m] [0m[0m         |  "suspiciousExtensions": [${result.suspiciousExtensions.map(f => s"{"line": ${f.line}, "content": \"${f.content}\"}").mkString(",")}],[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Projects\Cyber Projects\Cyber Mini Scan\CyberMiniScan v1.2\src\main\scala\CyberMiniScanApp.scala:81:67: ')' expected but string literal found.[0m
+[0m[[0m[31merror[0m] [0m[0m         |  "dangerousUrls": [${result.dangerousUrls.map(u => s"{"line": ${u.line}, "content": \"${u.content}\"}").mkString(",")}][0m
+[0m[[0m[31merror[0m] [0m[0m                                                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m

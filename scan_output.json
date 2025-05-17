@@ -1,0 +1,5 @@
+{
+  "weakPasswords": [{"line": 1, "content": "user=admin"},{"line": 2, "content": "password=123456"},{"line": 2, "content": "password=123456"}],
+  "suspiciousExtensions": [{"line": 3, "content": "Run this file: setup.exe"}],
+  "dangerousUrls": [{"line": 4, "content": "http://weirdsite.xyz"}]
+}
